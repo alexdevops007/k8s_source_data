@@ -19,4 +19,4 @@ spec:
         image: prom/alertmanager:v0.22.2
         ports:
         - name: alertmanager
-          containerPort: 9093
+          containerPort: 9093                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
